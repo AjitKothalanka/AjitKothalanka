@@ -1,4 +1,4 @@
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6663dc74-dda6-44cb-8c0b-41b6caf50319/dfbvl0k-321055df-7333-48e8-92b9-869e2eff673b.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY2NjNkYzc0LWRkYTYtNDRjYi04YzBiLTQxYjZjYWY1MDMxOVwvZGZidmwway0zMjEwNTVkZi03MzMzLTQ4ZTgtOTJiOS04NjllMmVmZjY3M2IuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tfHKUGrtge_ELFMVQwdOeXw3yhHS2uf2BiSJWbApka8" height=50%/>
+
 <h3 align="center">Enthusiastic Learner of All Domains.... Want to be the "Jack of All Trades" 😎😎✌️</h3>
 
 - 🌱 I’m currently learning **HTML5, CSS3, Python ,Figma**
